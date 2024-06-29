@@ -1,6 +1,6 @@
 # 📒 Awesome-SD-Distributed-Inference <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >  
 
-Awesome-SD-Distributed-Inference: A small curated list of Awesome SD/DiT/ViT/Diffusion Distributed Inference Paper with codes.
+Awesome-SD-Distributed-Inference: A small curated list of Awesome SD/DiT/ViT/Diffusion Distributed Inference Paper with codes, such as DistriFusion, PipeFusion, AsyncDiff, DeepCache etc.
 
 ## ©️Citations 
 

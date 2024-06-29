@@ -1,4 +1,4 @@
-# 📒 Awesome-SD-Distributed-Inference
+# 📒Awesome-SD-Distributed-Inference
 <div align='left'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src=https://img.shields.io/github/forks/DefTruth/Awesome-SD-Distributed-Inference.svg?style=social >
@@ -8,7 +8,7 @@
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
-📒 Awesome-SD-Distributed-Inference: A small curated list of Awesome **SD/DiT/ViT/Diffusion** **Distributed Inference** Paper with codes, such as **DistriFusion, PipeFusion, AsyncDiff, DeepCache** etc. This repo is still updated frequently ~ 👨‍💻‍ Welcome to star ⭐️ or submit a PR to this repo! I will review and merge it. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
+📒A **small** curated list of Awesome **SD/DiT/ViT/Diffusion** **Distributed Inference** Paper with codes, such as **DistriFusion, PipeFusion, AsyncDiff, DeepCache** etc. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
 
 
 ## ©️Citations 

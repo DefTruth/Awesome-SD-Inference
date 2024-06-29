@@ -32,7 +32,7 @@
 |2024.05|🔥🔥[**PipeFusion**] PipeFusion: Displaced Patch Pipeline Parallelism for Inference of Diffusion Transformer Models(@Tencent etc)|[[pdf]](https://arxiv.org/pdf/2405.14430) | [[PipeFusion]](https://github.com/PipeFusion/PipeFusion) ![](https://img.shields.io/github/stars/PipeFusion/PipeFusion.svg?style=social)| ⭐️⭐️ | 
 |2024.06| 🔥🔥[**AsyncDiff**] AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising(@nus.edu) | [[pdf]](https://arxiv.org/pdf/2406.06911) | [[AsyncDiff]](https://github.com/czg1225/AsyncDiff) ![](https://img.shields.io/github/stars/czg1225/AsyncDiff.svg?style=social)| ⭐️⭐️ |   
 |2024.06| 🔥🔥[**Layer Caching**] Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching(@nus.edu)  | [[pdf]](https://arxiv.org/pdf/2406.01733) | [[learning-to-cache]](https://github.com/horseee/learning-to-cache/) ![](https://img.shields.io/github/stars/horseee/learning-to-cache.svg?style=social)| ⭐️⭐️ | 
-|2024.05 | 🔥🔥[**TensorRT-LLM SDXL**] SDXL Distributed Inference in TensorRT-LLM with synchronous comm(@Zars19) | [[pdf]](https://arxiv.org/abs/2402.19481) | [[SDXL-TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM/pull/1514) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social)| ⭐️⭐️ | 
+|2024.05 | 🔥🔥[**TensorRT-LLM SDXL**] SDXL Distributed Inference with TensorRT-LLM and synchronous comm(@Zars19) | [[pdf]](https://arxiv.org/abs/2402.19481) | [[SDXL-TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM/pull/1514) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social)| ⭐️⭐️ | 
 
 
 ## ©️License  

@@ -8,7 +8,7 @@
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
-📒 Awesome-SD-Distributed-Inference: A small curated list of Awesome **SD/DiT/ViT** **Distributed Inference** Paper with codes, such as **DistriFusion, PipeFusion, AsyncDiff, DeepCache** etc. This repo is still updated frequently ~ 👨‍💻‍ Welcome to star ⭐️ or submit a PR to this repo! I will review and merge it. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
+📒 Awesome-SD-Distributed-Inference: A small curated list of Awesome **SD/DiT/ViT/Diffusion** **Distributed Inference** Paper with codes, such as **DistriFusion, PipeFusion, AsyncDiff, DeepCache** etc. This repo is still updated frequently ~ 👨‍💻‍ Welcome to star ⭐️ or submit a PR to this repo! I will review and merge it. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
 
 
 ## ©️Citations 

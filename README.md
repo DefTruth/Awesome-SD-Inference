@@ -8,7 +8,7 @@
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
-📒A **small** curated list of Awesome **SD/DiT/ViT/Diffusion** **Distributed Inference** Paper with codes. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
+📒A **small** curated list of Awesome **SD/DiT/ViT/Diffusion** **Distributed Inference(Multi-GPUs)** Paper with codes. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
 
 
 ## ©️Citations 

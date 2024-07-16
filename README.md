@@ -28,6 +28,7 @@
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
 |2023.12|🔥🔥[**DeepCache**] DeepCache: Accelerating Diffusion Models for Free(@nus.edu)|[[pdf]](https://arxiv.org/pdf/2312.00858) | [[DeepCache]](https://github.com/horseee/DeepCache) ![](https://img.shields.io/github/stars/horseee/DeepCache.svg?style=social)| ⭐️⭐️ |   
+|2023.12|🔥🔥[**Block Caching**] Cache Me if You Can: Accelerating Diffusion Models through Block Caching(@Meta GenAI etc)|[[pdf]](https://arxiv.org/pdf/2312.03209) |⚠️|⭐️⭐️ | 
 |2024.02|🔥🔥[**DistriFusion**] DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models(@MIT etc)|[[pdf]](https://arxiv.org/abs/2402.19481) | [[distrifuser]](https://github.com/mit-han-lab/distrifuser) ![](https://img.shields.io/github/stars/mit-han-lab/distrifuser.svg?style=social)| ⭐️⭐️ |   
 |2024.05|🔥🔥[**PipeFusion**] PipeFusion: Displaced Patch Pipeline Parallelism for Inference of Diffusion Transformer Models(@Tencent etc)|[[pdf]](https://arxiv.org/pdf/2405.14430) | [[PipeFusion]](https://github.com/PipeFusion/PipeFusion) ![](https://img.shields.io/github/stars/PipeFusion/PipeFusion.svg?style=social)| ⭐️⭐️ | 
 |2024.06| 🔥🔥[**AsyncDiff**] AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising(@nus.edu) | [[pdf]](https://arxiv.org/pdf/2406.06911) | [[AsyncDiff]](https://github.com/czg1225/AsyncDiff) ![](https://img.shields.io/github/stars/czg1225/AsyncDiff.svg?style=social)| ⭐️⭐️ |   

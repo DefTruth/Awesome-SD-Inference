@@ -33,6 +33,14 @@
 - **DiT Based (Fast-Forward Caching)**
 <img width="1119" alt="image" src="https://github.com/user-attachments/assets/fad8f187-d4ac-4290-9943-7b34116fed05">
 
+- **UNet Based: Displaced Patch parallelism (DistriFusion)**
+
+<img width="1677" alt="image" src="https://github.com/user-attachments/assets/aefb2ae7-73eb-4e9c-bf1a-ec540f4dfa7d">
+
+- **DiT Based: Displaced Patch parallelism (PipeFusion)**
+
+<img width="1346" alt="image" src="https://github.com/user-attachments/assets/692c5d54-19b3-4ce7-9613-9eb8bb035c7d">
+
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   

@@ -16,8 +16,8 @@
 ```BibTeX
 @misc{Awesome-SD-Distributed/Caching-Inference@2024,
   title={Awesome-SD-Distributed/Caching-Inference: A small curated list of Awesome SD/DiT/ViT/Diffusion Distributed/Caching Inference Paper with codes},
-  url={https://github.com/DefTruth/Awesome-SD-Distributed/Caching-Inference},
-  note={Open-source software available at https://github.com/DefTruth/Awesome-SD-Distributed-Inference},
+  url={https://github.com/DefTruth/Awesome-SD-Distributed-Caching-Inference},
+  note={Open-source software available at https://github.com/DefTruth/Awesome-SD-Distributed-Caching-Inference},
   author={DefTruth},
   year={2024}
 }

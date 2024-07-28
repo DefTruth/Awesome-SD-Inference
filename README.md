@@ -36,6 +36,7 @@
 |2024.05 | 🔥🔥[**TensorRT-LLM SDXL**] SDXL Distributed Inference with TensorRT-LLM and synchronous comm(@Zars19) | [[pdf]](https://arxiv.org/abs/2402.19481) | [[SDXL-TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM/pull/1514) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social)| ⭐️⭐️ | 
 |2024.06| 🔥🔥[**Clip Parallelism**] Video-Infinity: Distributed Long Video Generation(@nus.edu)|[[pdf]](https://arxiv.org/pdf/2406.16260) | [[Video-Infinity]](https://github.com/Yuanshi9815/Video-Infinity) ![](https://img.shields.io/github/stars/Yuanshi9815/Video-Infinity.svg?style=social)|⭐️⭐️ | 
 |2024.05| 🔥🔥[**FIFO-Diffusion**] FIFO-Diffusion: Generating Infinite Videos from Text without Training(@Seoul National University)|[[pdf]](https://arxiv.org/pdf/2405.11473) |  [[FIFO-Diffusion]](https://github.com/jjihwan/FIFO-Diffusion_public) ![](https://img.shields.io/github/stars/jjihwan/FIFO-Diffusion_public.svg?style=social) |⭐️⭐️ | 
+|2024.07|🔥 [**ElasticCache-LVLM**] Efficient Inference of Vision Instruction-Following Models with Elastic Cache(@Tsinghua University etc)|[[pdf]](https://arxiv.org/pdf/2407.18121)|[[ElasticCache]](https://github.com/liuzuyan/ElasticCache) ![](https://img.shields.io/github/stars/liuzuyan/ElasticCache.svg?style=social)|⭐️ |
 
 ## ©️License  
 

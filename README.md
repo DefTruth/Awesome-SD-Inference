@@ -1,10 +1,10 @@
 # 📒Awesome-SD-Inference
 <div align='left'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
-  <img src=https://img.shields.io/github/forks/DefTruth/Awesome-SD-Distributed-Inference.svg?style=social >
-  <img src=https://img.shields.io/github/stars/DefTruth/Awesome-SD-Distributed-Inference.svg?style=social >
-  <img src=https://img.shields.io/github/watchers/DefTruth/Awesome-SD-Distributed-Inference.svg?style=social >
-  <img src=https://img.shields.io/badge/Release-v0.1-brightgreen.svg >
+  <img src=https://img.shields.io/github/forks/DefTruth/Awesome-SD-Inference.svg?style=social >
+  <img src=https://img.shields.io/github/stars/DefTruth/Awesome-SD-Inference.svg?style=social >
+  <img src=https://img.shields.io/github/watchers/DefTruth/Awesome-SD-Inference.svg?style=social >
+  <img src=https://img.shields.io/badge/Release-v0.2-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
@@ -19,10 +19,10 @@
 ## ©️Citations 
 
 ```BibTeX
-@misc{Awesome-SD-Distributed/Caching-Inference@2024,
-  title={Awesome-SD-Distributed/Caching-Inference: A small curated list of Awesome SD/DiT/ViT/Diffusion Distributed/Caching Inference Paper with codes},
-  url={https://github.com/DefTruth/Awesome-SD-Distributed-Caching-Inference},
-  note={Open-source software available at https://github.com/DefTruth/Awesome-SD-Distributed-Caching-Inference},
+@misc{Awesome-SD-Inference@2024,
+  title={Awesome-SD-Inference: A small curated list of Awesome SD/DiT/ViT/Diffusion Inference with Distributed/Caching/Sampling.},
+  url={https://github.com/DefTruth/Awesome-SD-Inference},
+  note={Open-source software available at https://github.com/DefTruth/Awesome-SD-Inference},
   author={DefTruth},
   year={2024}
 }
@@ -82,11 +82,11 @@ GNU General Public License v3.0
 Welcome to star & submit a PR to this repo! 
 
 <div align='center'>
-<a href="https://star-history.com/#DefTruth/Awesome-SD-Distributed-Inference&Date">
+<a href="https://star-history.com/#DefTruth/Awesome-SD-Inference&Date">
   <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-SD-Distributed-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-SD-Distributed-Inference&type=Date" />
-    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/Awesome-SD-Distributed-Inference&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-SD-Inference&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-SD-Inference&type=Date" />
+    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/Awesome-SD-Inference&type=Date" />
   </picture>
 </a>
 </div>

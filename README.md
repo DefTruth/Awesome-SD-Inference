@@ -1,4 +1,4 @@
-# 📒Awesome-SD-Distributed/Caching-Inference
+# 📒Awesome-SD-Inference
 <div align='left'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src=https://img.shields.io/github/forks/DefTruth/Awesome-SD-Distributed-Inference.svg?style=social >
@@ -8,7 +8,7 @@
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
-📒A **small** curated list of Awesome **SD/DiT/ViT/Diffusion** **Distributed/Caching Inference** Paper with codes. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
+📒A **small** curated list of Awesome **SD/DiT/ViT/Diffusion** Inference with **Distributed/Caching/Sampling**. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
 
 ## 🤖Contents
 

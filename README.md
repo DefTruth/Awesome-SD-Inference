@@ -50,6 +50,7 @@
 |2024.06| 🔥🔥[**Layer Caching**] Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching(@nus.edu)  | [[pdf]](https://arxiv.org/pdf/2406.01733) | [[learning-to-cache]](https://github.com/horseee/learning-to-cache/) ![](https://img.shields.io/github/stars/horseee/learning-to-cache.svg?style=social)| ⭐️⭐️ | 
 |2024.07|🔥[**ElasticCache-LVLM**] Efficient Inference of Vision Instruction-Following Models with Elastic Cache(@Tsinghua University etc)|[[pdf]](https://arxiv.org/pdf/2407.18121)|[[ElasticCache]](https://github.com/liuzuyan/ElasticCache) ![](https://img.shields.io/github/stars/liuzuyan/ElasticCache.svg?style=social)|⭐️ |
 |2024.07| 🔥🔥[**Fast-Forward Caching(DiT)**] FORA: Fast-Forward Caching in Diffusion Transformer Acceleration(@microsoft.com etc) | [[pdf]](https://arxiv.org/pdf/2407.01425) | [[FORA]](https://github.com/prathebaselva/FORA) ![](https://img.shields.io/github/stars/prathebaselva/FORA.svg?style=social)|⭐️⭐️ |
+|2024.07| 🔥🔥[**Faster I2V Generation**] Faster Image2Video Generation: A Closer Look at CLIP Image Embedding’s Impact on Spatio-Temporal Cross-Attentions(@Ashkan Taghipour etc)|[[pdf]](https://arxiv.org/pdf/2407.19205) |⚠️|⭐️⭐️ |
 
 ## 📙Awesome SD Distributed Inference with Multi-GPUs
 

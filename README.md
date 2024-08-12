@@ -4,11 +4,11 @@
   <img src=https://img.shields.io/github/forks/DefTruth/Awesome-SD-Inference.svg?style=social >
   <img src=https://img.shields.io/github/stars/DefTruth/Awesome-SD-Inference.svg?style=social >
   <img src=https://img.shields.io/github/watchers/DefTruth/Awesome-SD-Inference.svg?style=social >
-  <img src=https://img.shields.io/badge/Release-v0.2-brightgreen.svg >
+  <img src=https://img.shields.io/badge/Release-v0.3-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
-📒A **small** curated list of Awesome **SD/DiT/ViT/Diffusion** Inference with **Distributed/Caching/Sampling**. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
+📒A **small** curated list of Awesome **SD/DiT/Diffusion** Inference with **Distributed/Caching/Sampling**. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
 
 ## 🤖Contents
 

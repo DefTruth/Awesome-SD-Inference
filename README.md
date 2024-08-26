@@ -52,6 +52,8 @@
 |2024.07|🔥[**ElasticCache-LVLM**] Efficient Inference of Vision Instruction-Following Models with Elastic Cache(@Tsinghua University etc)|[[pdf]](https://arxiv.org/pdf/2407.18121)|[[ElasticCache]](https://github.com/liuzuyan/ElasticCache) ![](https://img.shields.io/github/stars/liuzuyan/ElasticCache.svg?style=social)|⭐️ |
 |2024.07| 🔥🔥[**Fast-Forward Caching(DiT)**] FORA: Fast-Forward Caching in Diffusion Transformer Acceleration(@microsoft.com etc) | [[pdf]](https://arxiv.org/pdf/2407.01425) | [[FORA]](https://github.com/prathebaselva/FORA) ![](https://img.shields.io/github/stars/prathebaselva/FORA.svg?style=social)|⭐️⭐️ |
 |2024.07| 🔥🔥[**Faster I2V Generation**] Faster Image2Video Generation: A Closer Look at CLIP Image Embedding’s Impact on Spatio-Temporal Cross-Attentions(@Ashkan Taghipour etc)|[[pdf]](https://arxiv.org/pdf/2407.19205) |⚠️|⭐️⭐️ |
+|2024.04| 🔥🔥[**T-GATE V1**] Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models(@Wentian Zhang etc)|[[pdf]](https://arxiv.org/pdf/2404.02747v1) | [[T-GATE]](https://github.com/HaozheLiu-ST/T-GATE) ![](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE.svg?style=social)|⭐️⭐️ |
+|2024.04| 🔥🔥[**T-GATE V2**] Faster Diffusion via Temporal Attention Decomposition(@Haozhe Liu etc)|[[pdf]](https://arxiv.org/pdf/2404.02747v2) | [[T-GATE]](https://github.com/HaozheLiu-ST/T-GATE) ![](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE.svg?style=social)|⭐️⭐️ |
 
 ## 📙Awesome SD Distributed Inference with Multi-GPUs
 
@@ -81,6 +83,7 @@
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
 |2024.06| 🔥[**DiTFastAttn**] DiTFastAttn: Attention Compression for Diffusion Transformer Models(@Zhihang Yuan etc)|[[pdf]](https://arxiv.org/pdf/2406.08552) | [[DiTFastAttn]](https://github.com/thu-nics/DiTFastAttn) ![](https://img.shields.io/github/stars/thu-nics/DiTFastAttn.svg?style=social)|⭐️⭐️ |
+|2024.08| 🔥[**Transfusion**] Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model(@meta)|[[pdf]](https://www.arxiv.org/pdf/2408.11039) | [[transfusion-pytorch]](https://github.com/lucidrains/transfusion-pytorch) ![](https://img.shields.io/github/stars/lucidrains/transfusion-pytorch.svg?style=social)|⭐️⭐️ |
 
 ## ©️License  
 

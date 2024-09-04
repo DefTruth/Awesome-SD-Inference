@@ -12,6 +12,7 @@
 
 ## 🤖Contents
 
+- [📙Awesome SD Inference with Sampling](#Sampling)
 - [📙Awesome SD Inference with Caching](#Caching)
 - [📙Awesome SD Distributed Inference with Multi-GPUs](#Distributed)
 - [📙Other Awesome SD Inference Paper with codes](#Others)
@@ -29,6 +30,25 @@
 }
 ```
 
+
+## 📙Awesome SD Inference with Sampling  
+
+<div id="Sampling"></div>  
+
+|Date|Title|Paper|Code|Recom|
+|:---:|:---:|:---:|:---:|:---:|   
+|2020.06| 🔥[**DDPM**] Denoising Diffusion Probabilistic Models(@UC Berkeley)  | [[pdf]](https://arxiv.org/abs/2006.11239) |[[diffusion]](https://github.com/hojonathanho/diffusion) ![](https://img.shields.io/github/stars/hojonathanho/diffusion.svg?style=social) |⭐️⭐️ | 
+|2020.10| 🔥[**DDIM**] DENOISING DIFFUSION IMPLICIT MODELS(@cs.stanford.edu) | [[pdf]](https://arxiv.org/pdf/2010.02502) |⚠️|⭐️⭐️ |
+|2022.02| 🔥[**PNDM**] PSEUDO NUMERICAL METHODS FOR DIFFUSION MODELS ON MANIFOLDS(@) | [[pdf]](https://arxiv.org/pdf/2202.09778) |[[PNDM]](https://github.com/luping-liu/PNDM) ![](https://img.shields.io/github/stars/luping-liu/PNDM.svg?style=social) |⭐️⭐️ | 
+|2022.02| 🔥[**DPM-Solver**] DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps(@Cheng Lu) | [[pdf]](https://arxiv.org/pdf/2206.00927) |[[dpm-solver]](https://github.com/LuChengTHU/dpm-solver) ![](https://img.shields.io/github/stars/LuChengTHU/dpm-solver.svg?style=social) |⭐️⭐️ | 
+|2022.11| 🔥[**DPM-Solver++**] DPM-SOLVER++: FAST SOLVER FOR GUIDED SAMPLING OF DIFFUSION PROBABILISTIC MODELS(@Cheng Lu) | [[pdf]](https://arxiv.org/pdf/2211.01095) |[[dpm-solver]](https://github.com/LuChengTHU/dpm-solver) ![](https://img.shields.io/github/stars/LuChengTHU/dpm-solver.svg?style=social) |⭐️⭐️ | 
+|2023.10| 🔥[**DPM-Solver-v3**] DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics(@Kaiwen Zheng) | [[pdf]](https://arxiv.org/pdf/2310.13268) |[[DPM-Solver-v3]](https://github.com/thu-ml/DPM-Solver-v3) ![](https://img.shields.io/github/stars/Lthu-ml/DPM-Solver-v3.svg?style=social) |⭐️⭐️ | 
+|2023.11| 🔥[**Parallel Sampling**] Parallel Sampling of Diffusion Models(@Stanford University) | [[pdf]](https://papers.nips.cc/paper_files/paper/2023/file/0d1986a61e30e5fa408c81216a616e20-Paper-Conference.pdf) | [[paradigms]](https://github.com/AndyShih12/paradigms) ![](https://img.shields.io/github/stars/AndyShih12/paradigms.svg?style=social) |⭐️⭐️ |
+|2023.11| 🔥[**SAMPLER SCHEDULER**] SAMPLER SCHEDULER FOR DIFFUSION MODELS(@sysu)| [[pdf]](https://arxiv.org/pdf/2311.06845) |⚠️|⭐️⭐️ |
+|2024.02| 🔥[**Parallel Sampling**] Accelerating Parallel Sampling of Diffusion Models(@Zhiwei Tang) | [[pdf]](https://arxiv.org/pdf/2402.09970) | [[ParaTAA-Diffusion]](https://github.com/TZW1998/ParaTAA-Diffusion) ![](https://img.shields.io/github/stars/TZW1998/ParaTAA-Diffusion.svg?style=social) |⭐️⭐️ | 
+|2024.01| 🔥[**YONOS**] You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation(@Samsung AI) | [[pdf]](https://arxiv.org/pdf/2401.17258) |⚠️|⭐️⭐️ |
+|2024.01| 🔥[**S^2-DM**] S^2-DMs: Skip-Step Diffusion Models(@Yixuan Wang) | [[pdf]](https://arxiv.org/pdf/2401.01520) |⚠️|⭐️⭐️ |
+|2024.08| 🔥[**StepSaver**] StepSaver: Predicting Minimum Denoising Steps for Diffusion Model Image Generation(@intel) | [[pdf]](https://arxiv.org/pdf/2408.02054) |⚠️|⭐️⭐️ |
 
 ## 📙Awesome SD Inference with Caching  
 

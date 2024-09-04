@@ -88,6 +88,7 @@
 |2024.08| 🔥[**LBQ**] Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models(@toronto.edu)|[[pdf]](https://arxiv.org/pdf/2408.06995)  |⚠️|⭐️⭐️ |
 |2024.08| 🔥[**EE-Diffusion**] A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models(@KAIST AI)|[[pdf]](https://arxiv.org/pdf/2408.05927) | [[ee-diffusion]](https://github.com/taehong-moon/ee-diffusion) ![](https://img.shields.io/github/stars/taehong-moon/ee-diffusion.svg?style=social)|⭐️⭐️ |
 |2024.08| 🔥[**TFM-PTQ**] Temporal Feature Matters: A Framework for Diffusion Model Quantization(@SenseTime)|[[pdf]](https://arxiv.org/pdf/2407.19547)  |⚠️|⭐️⭐️ |
+|2024.08| 🔥[**Diffusion-RWKV**] Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models(@Zhengcong Fei)|[[pdf]](https://arxiv.org/pdf/2404.04478) | [[Diffusion-RWKV]](https://github.com/feizc/Diffusion-RWKV) ![](https://img.shields.io/github/stars/feizc/Diffusion-RWKV.svg?style=social)|⭐️⭐️ |
 
 ## ©️License  
 

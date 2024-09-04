@@ -86,6 +86,7 @@
 |2024.08| 🔥[**Transfusion**] Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model(@meta)|[[pdf]](https://www.arxiv.org/pdf/2408.11039) | [[transfusion-pytorch]](https://github.com/lucidrains/transfusion-pytorch) ![](https://img.shields.io/github/stars/lucidrains/transfusion-pytorch.svg?style=social)|⭐️⭐️ |
 |2024.08| 🔥[**VQ4DiT**] VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers(@ZJU)|[[pdf]](https://arxiv.org/pdf/2408.17131)  |⚠️|⭐️⭐️ |
 |2024.08| 🔥[**LBQ**] Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models(@toronto.edu)|[[pdf]](https://arxiv.org/pdf/2408.06995)  |⚠️|⭐️⭐️ |
+|2024.08| 🔥[**EE-Diffusion**] A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models(@KAIST AI)|[[pdf]](https://arxiv.org/pdf/2408.05927) | [[ee-diffusion]](https://github.com/taehong-moon/ee-diffusion) ![](https://img.shields.io/github/stars/taehong-moon/ee-diffusion.svg?style=social)|⭐️⭐️ |
 
 ## ©️License  
 

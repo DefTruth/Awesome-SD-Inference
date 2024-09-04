@@ -85,6 +85,7 @@
 |2024.06| 🔥[**DiTFastAttn**] DiTFastAttn: Attention Compression for Diffusion Transformer Models(@Zhihang Yuan etc)|[[pdf]](https://arxiv.org/pdf/2406.08552) | [[DiTFastAttn]](https://github.com/thu-nics/DiTFastAttn) ![](https://img.shields.io/github/stars/thu-nics/DiTFastAttn.svg?style=social)|⭐️⭐️ |
 |2024.08| 🔥[**Transfusion**] Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model(@meta)|[[pdf]](https://www.arxiv.org/pdf/2408.11039) | [[transfusion-pytorch]](https://github.com/lucidrains/transfusion-pytorch) ![](https://img.shields.io/github/stars/lucidrains/transfusion-pytorch.svg?style=social)|⭐️⭐️ |
 |2024.08| 🔥[**VQ4DiT**] VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers(@ZJU)|[[pdf]](https://arxiv.org/pdf/2408.17131)  |⚠️|⭐️⭐️ |
+|2024.08| 🔥[**LBQ**] Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models(@toronto.edu)|[[pdf]](https://arxiv.org/pdf/2408.06995)  |⚠️|⭐️⭐️ |
 
 ## ©️License  
 

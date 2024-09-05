@@ -14,7 +14,7 @@
 
 - [📙Awesome SD Inference with Sampling](#Sampling)
 - [📙Awesome SD Inference with Caching](#Caching)
-- [📙Awesome SD Distributed Inference with Multi-GPUs](#Distributed)
+- [📙Awesome SD Inference with Multi-GPUs](#Distributed)
 - [📙Other Awesome SD Inference Paper with codes](#Others)
 
 

@@ -109,6 +109,7 @@
 |2024.08| 🔥[**EE-Diffusion**] A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models(@KAIST AI)|[[pdf]](https://arxiv.org/pdf/2408.05927) | [[ee-diffusion]](https://github.com/taehong-moon/ee-diffusion) ![](https://img.shields.io/github/stars/taehong-moon/ee-diffusion.svg?style=social)|⭐️⭐️ |
 |2024.08| 🔥[**TFM-PTQ**] Temporal Feature Matters: A Framework for Diffusion Model Quantization(@SenseTime)|[[pdf]](https://arxiv.org/pdf/2407.19547)  |⚠️|⭐️⭐️ |
 |2024.08| 🔥[**Diffusion-RWKV**] Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models(@Zhengcong Fei)|[[pdf]](https://arxiv.org/pdf/2404.04478) | [[Diffusion-RWKV]](https://github.com/feizc/Diffusion-RWKV) ![](https://img.shields.io/github/stars/feizc/Diffusion-RWKV.svg?style=social)|⭐️⭐️ |
+|2024.09| 🔥[**LinFusion**] LINFUSION: 1 GPU, 1 MINUTE, 16K IMAGE(@NUS)|[[pdf]](https://arxiv.org/pdf/2409.02097) | [[LinFusion]](https://github.com/Huage001/LinFusion) ![](https://img.shields.io/github/stars/Huage001/LinFusion.svg?style=social)|⭐️⭐️ |
 
 ## ©️License  
 

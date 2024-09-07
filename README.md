@@ -49,6 +49,7 @@
 |2024.01| 🔥[**YONOS**] You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation(@Samsung AI) | [[pdf]](https://arxiv.org/pdf/2401.17258) |⚠️|⭐️⭐️ |
 |2024.01| 🔥[**S^2-DM**] S^2-DMs: Skip-Step Diffusion Models(@Yixuan Wang) | [[pdf]](https://arxiv.org/pdf/2401.01520) |⚠️|⭐️⭐️ |
 |2024.08| 🔥[**StepSaver**] StepSaver: Predicting Minimum Denoising Steps for Diffusion Model Image Generation(@intel) | [[pdf]](https://arxiv.org/pdf/2408.02054) |⚠️|⭐️⭐️ |
+|2024.09| 🔥[**DC-Solver**] DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation(@Tsinghua University)| [[pdf]](https://arxiv.org/pdf/2409.03755v1) | [[DC-Solver]](https://github.com/wl-zhao/DC-Solver) ![](https://img.shields.io/github/stars/wl-zhao/DC-Solver.svg?style=social) |⭐️⭐️ | 
 
 ## 📙Awesome SD Inference with Caching  
 
